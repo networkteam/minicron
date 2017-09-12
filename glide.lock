@@ -1,0 +1,18 @@
+hash: 347aca1ea19aec93d7cfee3b7a7be3dd624eb521118a8c5cf4a79027277b2a35
+updated: 2017-08-30T17:54:09.231497327+02:00
+imports:
+- name: github.com/kvz/logstreamer
+  version: a635b98146f0f465f3413a0b8ec481f3698d3fc2
+- name: github.com/mattn/go-colorable
+  version: ad5389df28cdac544c99bd7b9161a0b5b6ca9d1b
+- name: github.com/mattn/go-isatty
+  version: fc9e8d8ef48496124e79ae0df75490096eccf6fe
+- name: github.com/mgutz/ansi
+  version: 9520e82c474b0a04dd04f8a40959027271bab992
+- name: github.com/robfig/cron
+  version: 736158dc09e10f1911ca3a1e1b01f11b566ce5db
+- name: golang.org/x/sys
+  version: bb24a47a89eac6c1227fbcb2ae37a8b9ed323366
+  subpackages:
+  - unix
+testImports: []

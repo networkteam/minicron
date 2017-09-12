@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/kvz/logstreamer
+- package: github.com/mgutz/ansi
+- package: github.com/robfig/cron
+  version: master
